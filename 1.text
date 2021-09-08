@@ -1,0 +1,44 @@
+python variable declared at runtime beacuse of flexible language
+in compiler first all the code given to the compiler which give object file then we run that object file to run our code
+in interpreter every statment executed and goes to next
+# ==========================
+# python keywords
+# **************************
+    * resorved words that can't be used as a const,variable or any other identifier name
+    * all the python keywords contain lowercase letters only 
+    * there are 30 keywords in python2 and 'as' added in python3
+# ==========================
+# python line and indentation
+# **************************
+    * statment typically ends with "newline" character(ENTER KEY)
+    * indentation to form block (FUNCTION,CLASS,FLOW CONTROL STATEMENT)
+    * Uniformly indented block start after ':'
+    * number of spaces is variable,but all the statment within the block must have same indent
+    * sequence of statment having same level of indent forms block
+# ==========================
+# python identifiers
+# **************************
+    * Name used to indentify variable,FUNCTION,CLASS,module or any other objects
+    * start with letter A-Z or a-z or underscore followed by zero or more letters underscore and digits (0-9)
+    * punctuation character such as @,#,$ are not allowed
+    * python is case sensetive
+    * CLASS name start with upper case. alll the other identifier start with lowercase.
+    * starting identifier with a single leading underscore indicate that the identifier is private
+        _abc
+    * starting identifier with a two leading underscore indicate that the identifier is  strongly private identifier
+        __abc
+    * if the identifier ends with two trailing underscore the identifier is language defined special name
+        __abc__
+    
+# ==========================
+# python Quotations
+# **************************
+    * python accept single (') double (") and triple ('" or """) quotes to denote string literal as long as same type of quotes start and ends the starting
+    * the triple quotes used to span the string accross the multiple line
+
+        # ==========================
+        BLANK LINS
+        # **************************
+    * A line containing only whitespace,possibly with a comment is known as blank line and python ignore it.
+    * in an interactive interpreter session, you must enter a physical line to terminate multiple statment.
+    
