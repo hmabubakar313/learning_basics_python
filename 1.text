@@ -41,4 +41,26 @@ in interpreter every statment executed and goes to next
         # **************************
     * A line containing only whitespace,possibly with a comment is known as blank line and python ignore it.
     * in an interactive interpreter session, you must enter a physical line to terminate multiple statment.
+
+# ==========================
+# python Multiline Statement
+# **************************
+    * python allowed use of line continueation character ('\') to denote that this line is continue
+    * statment conta within the [],{},() don't need this character 
+
+
+# command line argument
+when running a file you pass the variable of in it in the terminal is called command line argument.
+
+# random number
+# ararithmatic operators
+# trignometric functions
+# invtignometric Function
+# Misc Functions
+# basic operators
+# arithmatic operators
+# bitwise operators
+# Membership operatoer
+    python Membership operatoer test for Membership in a sequence,such as string, list, or tuple
+    
     
